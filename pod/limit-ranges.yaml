@@ -23,6 +23,6 @@ metadata:
 spec:
   containers:
     - name: stress
-      image: 
+      image: praveenbabu135/stress
       imagePullPolicy: Always
       command: ["sleep", "200"]
